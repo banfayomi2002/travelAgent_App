@@ -1,0 +1,68 @@
+C:\FAN\CPA\16WinS\INFO3112\AMZA Project\AMZA_Solution\AMZA_Solution\bin\ApplicationInsights.config
+C:\FAN\CPA\16WinS\INFO3112\AMZA Project\AMZA_Solution\AMZA_Solution\bin\roslyn\csc.exe
+C:\FAN\CPA\16WinS\INFO3112\AMZA Project\AMZA_Solution\AMZA_Solution\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\FAN\CPA\16WinS\INFO3112\AMZA Project\AMZA_Solution\AMZA_Solution\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\FAN\CPA\16WinS\INFO3112\AMZA Project\AMZA_Solution\AMZA_Solution\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\FAN\CPA\16WinS\INFO3112\AMZA Project\AMZA_Solution\AMZA_Solution\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\FAN\CPA\16WinS\INFO3112\AMZA Project\AMZA_Solution\AMZA_Solution\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\FAN\CPA\16WinS\INFO3112\AMZA Project\AMZA_Solution\AMZA_Solution\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\FAN\CPA\16WinS\INFO3112\AMZA Project\AMZA_Solution\AMZA_Solution\bin\roslyn\System.Collections.Immutable.dll
+C:\FAN\CPA\16WinS\INFO3112\AMZA Project\AMZA_Solution\AMZA_Solution\bin\roslyn\System.Reflection.Metadata.dll
+C:\FAN\CPA\16WinS\INFO3112\AMZA Project\AMZA_Solution\AMZA_Solution\bin\roslyn\vbc.exe
+C:\FAN\CPA\16WinS\INFO3112\AMZA Project\AMZA_Solution\AMZA_Solution\bin\roslyn\VBCSCompiler.exe
+C:\FAN\CPA\16WinS\INFO3112\AMZA Project\AMZA_Solution\AMZA_Solution\bin\roslyn\VBCSCompiler.exe.config
+C:\FAN\CPA\16WinS\INFO3112\AMZA Project\AMZA_Solution\AMZA_Solution\bin\AMZA_Solution.dll.config
+C:\FAN\CPA\16WinS\INFO3112\AMZA Project\AMZA_Solution\AMZA_Solution\bin\AMZA_Solution.dll
+C:\FAN\CPA\16WinS\INFO3112\AMZA Project\AMZA_Solution\AMZA_Solution\bin\AMZA_Solution.pdb
+C:\FAN\CPA\16WinS\INFO3112\AMZA Project\AMZA_Solution\AMZA_Solution\bin\Microsoft.AI.Agent.Intercept.dll
+C:\FAN\CPA\16WinS\INFO3112\AMZA Project\AMZA_Solution\AMZA_Solution\bin\Microsoft.AI.DependencyCollector.dll
+C:\FAN\CPA\16WinS\INFO3112\AMZA Project\AMZA_Solution\AMZA_Solution\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\FAN\CPA\16WinS\INFO3112\AMZA Project\AMZA_Solution\AMZA_Solution\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\FAN\CPA\16WinS\INFO3112\AMZA Project\AMZA_Solution\AMZA_Solution\bin\Microsoft.AI.Web.dll
+C:\FAN\CPA\16WinS\INFO3112\AMZA Project\AMZA_Solution\AMZA_Solution\bin\Microsoft.AI.WindowsServer.dll
+C:\FAN\CPA\16WinS\INFO3112\AMZA Project\AMZA_Solution\AMZA_Solution\bin\Microsoft.ApplicationInsights.dll
+C:\FAN\CPA\16WinS\INFO3112\AMZA Project\AMZA_Solution\AMZA_Solution\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\FAN\CPA\16WinS\INFO3112\AMZA Project\AMZA_Solution\AMZA_Solution\bin\Microsoft.AI.DependencyCollector.xml
+C:\FAN\CPA\16WinS\INFO3112\AMZA Project\AMZA_Solution\AMZA_Solution\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\FAN\CPA\16WinS\INFO3112\AMZA Project\AMZA_Solution\AMZA_Solution\bin\Microsoft.AI.Web.xml
+C:\FAN\CPA\16WinS\INFO3112\AMZA Project\AMZA_Solution\AMZA_Solution\bin\Microsoft.AI.WindowsServer.xml
+C:\FAN\CPA\16WinS\INFO3112\AMZA Project\AMZA_Solution\AMZA_Solution\bin\Microsoft.ApplicationInsights.xml
+C:\FAN\CPA\16WinS\INFO3112\AMZA Project\AMZA_Solution\AMZA_Solution\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\FAN\CPA\16WinS\INFO3112\AMZA Project\AMZA_Solution\AMZA_Solution\obj\Debug\AMZA_Solution.csprojResolveAssemblyReference.cache
+C:\FAN\CPA\16WinS\INFO3112\AMZA Project\AMZA_Solution\AMZA_Solution\obj\Debug\AMZA_Solution.dll
+C:\FAN\CPA\16WinS\INFO3112\AMZA Project\AMZA_Solution\AMZA_Solution\obj\Debug\AMZA_Solution.pdb
+C:\Users\Austin\Downloads\AMZA Project\AMZA Project\AMZA_Solution\AMZA_Solution\bin\ApplicationInsights.config
+C:\Users\Austin\Downloads\AMZA Project\AMZA Project\AMZA_Solution\AMZA_Solution\bin\roslyn\csc.exe
+C:\Users\Austin\Downloads\AMZA Project\AMZA Project\AMZA_Solution\AMZA_Solution\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Austin\Downloads\AMZA Project\AMZA Project\AMZA_Solution\AMZA_Solution\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Austin\Downloads\AMZA Project\AMZA Project\AMZA_Solution\AMZA_Solution\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Austin\Downloads\AMZA Project\AMZA Project\AMZA_Solution\AMZA_Solution\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Austin\Downloads\AMZA Project\AMZA Project\AMZA_Solution\AMZA_Solution\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Austin\Downloads\AMZA Project\AMZA Project\AMZA_Solution\AMZA_Solution\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Austin\Downloads\AMZA Project\AMZA Project\AMZA_Solution\AMZA_Solution\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Austin\Downloads\AMZA Project\AMZA Project\AMZA_Solution\AMZA_Solution\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Austin\Downloads\AMZA Project\AMZA Project\AMZA_Solution\AMZA_Solution\bin\roslyn\vbc.exe
+C:\Users\Austin\Downloads\AMZA Project\AMZA Project\AMZA_Solution\AMZA_Solution\bin\roslyn\VBCSCompiler.exe
+C:\Users\Austin\Downloads\AMZA Project\AMZA Project\AMZA_Solution\AMZA_Solution\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Austin\Downloads\AMZA Project\AMZA Project\AMZA_Solution\AMZA_Solution\bin\AMZA_Solution.dll.config
+C:\Users\Austin\Downloads\AMZA Project\AMZA Project\AMZA_Solution\AMZA_Solution\bin\AMZA_Solution.dll
+C:\Users\Austin\Downloads\AMZA Project\AMZA Project\AMZA_Solution\AMZA_Solution\bin\AMZA_Solution.pdb
+C:\Users\Austin\Downloads\AMZA Project\AMZA Project\AMZA_Solution\AMZA_Solution\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Austin\Downloads\AMZA Project\AMZA Project\AMZA_Solution\AMZA_Solution\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Austin\Downloads\AMZA Project\AMZA Project\AMZA_Solution\AMZA_Solution\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Austin\Downloads\AMZA Project\AMZA Project\AMZA_Solution\AMZA_Solution\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Austin\Downloads\AMZA Project\AMZA Project\AMZA_Solution\AMZA_Solution\bin\Microsoft.AI.Web.dll
+C:\Users\Austin\Downloads\AMZA Project\AMZA Project\AMZA_Solution\AMZA_Solution\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Austin\Downloads\AMZA Project\AMZA Project\AMZA_Solution\AMZA_Solution\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Austin\Downloads\AMZA Project\AMZA Project\AMZA_Solution\AMZA_Solution\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Austin\Downloads\AMZA Project\AMZA Project\AMZA_Solution\AMZA_Solution\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Austin\Downloads\AMZA Project\AMZA Project\AMZA_Solution\AMZA_Solution\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Austin\Downloads\AMZA Project\AMZA Project\AMZA_Solution\AMZA_Solution\bin\Microsoft.AI.Web.xml
+C:\Users\Austin\Downloads\AMZA Project\AMZA Project\AMZA_Solution\AMZA_Solution\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Austin\Downloads\AMZA Project\AMZA Project\AMZA_Solution\AMZA_Solution\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Austin\Downloads\AMZA Project\AMZA Project\AMZA_Solution\AMZA_Solution\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Austin\Downloads\AMZA Project\AMZA Project\AMZA_Solution\AMZA_Solution\obj\Debug\AMZA_Solution.csprojResolveAssemblyReference.cache
+C:\Users\Austin\Downloads\AMZA Project\AMZA Project\AMZA_Solution\AMZA_Solution\obj\Debug\AMZA_Solution.dll
+C:\Users\Austin\Downloads\AMZA Project\AMZA Project\AMZA_Solution\AMZA_Solution\obj\Debug\AMZA_Solution.pdb
+C:\Users\Austin\Downloads\AMZA Project\AMZA Project\AMZA_Solution\AMZA_Solution\obj\Debug\AMZA_Solution.Properties.Resources.resources
+C:\Users\Austin\Downloads\AMZA Project\AMZA Project\AMZA_Solution\AMZA_Solution\obj\Debug\AMZA_Solution.csproj.GenerateResource.Cache

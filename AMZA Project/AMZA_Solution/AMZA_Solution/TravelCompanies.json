@@ -1,0 +1,8 @@
+
+{"Companies": [
+    { "Name": "Test", "From": "London", "To": "Toronto", "TravelTime": "2H 9M", "Cost": "$66 - $145" },
+     {"Name" : "Greyhound","From":"London", "To":"Toronto", "TravelTime":"2H 45M", "Cost":"$25 - $40"}
+
+]}
+
+

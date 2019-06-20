@@ -1,0 +1,41 @@
+﻿    <!DOCTYPE HTML>
+
+    <html>
+    <head>
+        <title>AMZA Travel</title>
+        <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+        <meta charset="utf-8">
+        <script src="scripts/map.js"></script>
+        <script type="text/javascript" src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
+        <link href="travelStyle.css" rel="stylesheet" />
+        <script type="text/javascript" src="scripts/Data.js"></script>
+    </head>
+    <body onload="loadJSON()">
+        <input id="origin-input" class="controls" type="text"
+               placeholder="London">
+
+        <input id="destination-input" class="controls" type="text"
+               placeholder="Toronto">
+
+        <div id="mode-selector" class="controls">
+            <input type="radio" name="type" id="changemode-walking">
+            <label for="changemode-walking">Walking</label>
+
+            <input type="radio" name="type" id="changemode-transit">
+            <label for="changemode-transit">Transit</label>
+
+            <input type="radio" name="type" id="changemode-driving" checked="checked">
+            <label for="changemode-driving">Driving</label>
+        </div>
+        <div id="map"></div>
+
+        <div id="right-panel">
+            <h2>Results</h2>
+            <ul id="places"></ul>
+        </div>
+
+        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAPajOA33SzHJ_bc2sVqIqjYslABDUobuY&signed_in=true&libraries=places&callback=initMap"
+                async defer></script>
+
+    </body>
+</html>

@@ -1,0 +1,25 @@
+
+jsonstr = [  Companies: {
+        ViaRail: {
+            Name : "ViaRail",
+            From: "London",
+            To : "Toronto",
+            TravelTime : "2H 9M",
+            Cost : "$66 - $145"
+        },
+        GrayHound: {
+            Name : "Grayhound",
+            From : "London",
+            To : "Toronto",
+            TravelTime : "2H 45M",
+            Cost : "$25 - $40"
+        },
+        Megabus: {
+            Name: "Megabus",
+            From: "London",
+            To: "Toronto",
+            TravelTime: "2H 40M",
+            Cost: "$41 - $64"
+        },
+
+    }];
